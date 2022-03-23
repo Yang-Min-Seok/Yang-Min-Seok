@@ -1,11 +1,19 @@
-<h1 align="left">I'm Yang Min Seok</h1>
+<h1 align="left">Hi, I'm Yang Min Seok</h1>
 <h3 align="left">A junior who is majoring in Japanese and S/W development</h3>
+
+- **2 Mar 2018 Entered HUFS(Hankuk University of Foreign Studies) **
+
+- **I'm really into playing badminton and guitar.**
+
+- **I'm really into playing badminton and guitar.**
+
+- **I'm really into playing badminton and guitar.**
+
+- **I'm really into playing badminton and guitar.**
 
 - I’m currently working on [HaninBridge](https://www.haninbridge.com)
 
 - **kurooru98@gmail.com**
-
-- **I'm really into playing badminton and guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
