@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yang Min Seok</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
+- 🔭 I’m currently working on [HaninBridge](www.haninbridge.com)
+
+- 📫 How to reach me **kurooru98@gmail.com**
+
+- ⚡ Fun fact **I'm really into playing badminton and guitar.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/stone_pushed_sheep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stone_pushed_sheep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
