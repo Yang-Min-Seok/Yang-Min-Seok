@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yang Min Seok</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h1 align="left">I'm Yang Min Seok</h1>
+<h3 align="left">A junior who is majoring in Japanese and S/W development</h3>
 
 - I’m currently working on [HaninBridge](https://www.haninbridge.com)
 
