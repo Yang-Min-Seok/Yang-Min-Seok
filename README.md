@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yang Min Seok</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
-- 🔭 I’m currently working on [HaninBridge](www.haninbridge.com)
+- 🔭 I’m currently working on [HaninBridge](https://www.haninbridge.com)
 
 - 📫 How to reach me **kurooru98@gmail.com**
 
