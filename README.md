@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yang Min Seok</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
-- 🔭 I’m currently working on [HaninBridge](https://www.haninbridge.com)
+- I’m currently working on [HaninBridge](https://www.haninbridge.com)
 
-- 📫 How to reach me **kurooru98@gmail.com**
+- **kurooru98@gmail.com**
 
-- ⚡ Fun fact **I'm really into playing badminton and guitar.**
+- **I'm really into playing badminton and guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
