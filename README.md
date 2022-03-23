@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
 
-- 📫 How to reach me **kurooru98@gmail.com**
+- 📫 How to reach me 
+- **kurooru98@gmail.com**
 
-- ⚡ Fun fact **I love to playing badminton and guitar.**
+- ⚡ Fun fact 
+- **I love to playing badminton and guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
