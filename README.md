@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Yang Min Seok</h1>
 <h3 align="left">A junior who is majoring in Japanese and S/W development</h3>
 
-- **2 Mar 2018 Entered HUFS(Hankuk University of Foreign Studies) **
+- 2 Mar 2018 Entered HUFS(Hankuk University of Foreign Studies)
 
 - **I'm really into playing badminton and guitar.**
 
