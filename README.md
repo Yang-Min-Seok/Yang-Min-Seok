@@ -1,23 +1,16 @@
-<h1 align="left">Hi, I'm Yang Min Seok</h1>
-<h3 align="left">A junior who is majoring in Japanese and S/W development</h3>
+<h1 align="center">Hi 👋, I'm Yang Min Seok</h1>
+<h3 align="center">A Junior who is majoring in Japanese and S/W development</h3>
 
-- 2 Mar 2018 Entered HUFS(Hankuk University of Foreign Studies)
+- 🔭 I’m currently working on [HaninBridge](https://www.haninbridge.com)
 
-- **I'm really into playing badminton and guitar.**
+- 📫 How to reach me **kurooru98@gmail.com**
 
-- **I'm really into playing badminton and guitar.**
-
-- **I'm really into playing badminton and guitar.**
-
-- **I'm really into playing badminton and guitar.**
-
-- I’m currently working on [HaninBridge](https://www.haninbridge.com)
-
-- **kurooru98@gmail.com**
+- ⚡ Fun fact **I love to playing badminton and guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/stone_pushed_sheep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stone_pushed_sheep" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv-r_58b1dzdei5is1wuq5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv-r_58b1dzdei5is1wuq5w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
