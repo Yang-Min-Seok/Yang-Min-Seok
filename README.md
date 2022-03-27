@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yang Min Seok</h1>
-<h3 align="left">I'm Junior who is majoring in Japanese and S/W development from South Korea</h3>
+<h3 align="left">I'm a Junior who is majoring in Japanese and S/W development from South Korea</h3>
 
 - 🔭 I’m currently working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
 
