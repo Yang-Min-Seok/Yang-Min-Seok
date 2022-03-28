@@ -17,7 +17,10 @@
 <h3 align="left">📫 How to reach me</h3>
 
 - **kurooru98@gmail.com**
-- ⚡ Fun fact **I love to play badminton and guitar.**
+
+<h3 align="left">⚡ Fun fact </h3>
+
+- **I love to play badminton and guitar.**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
