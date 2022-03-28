@@ -25,4 +25,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Min-Seok&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Most Used Languages</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Min-Seok&layout=compact&theme=tokyonight)
