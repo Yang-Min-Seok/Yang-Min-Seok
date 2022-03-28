@@ -5,7 +5,7 @@
 - (Mar. 2nd. 2018 ~ ) Entered Hankuk University of Foreign Studies and started majoring in Japanese.
 - (Jul. 8th. 2019 ~ Apr. 25th. 2021) Military Service at Republic of Korea Air Force.
 - (Mar. 2nd. 2021 ~ ) Started majoring in S/W development.
-- (Dec. 3rd. 2021 ~ ) Nominated in a development contest [Hanium](https://www.hanium.or.kr/portal/index.do). (cafe vibration bell replacement project)
+- (Dec. 3rd. 2021 ~ ) Nominated in a development contest [Hanium](https://github.com/2jaebbang/Hanium-SmartBell). (cafe vibration bell replacement project)
 - (Mar. 18th. 2022 ~ ) Started working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
 - 📫 How to reach me **kurooru98@gmail.com**
 - ⚡ Fun fact **I love to play badminton and guitar.**
