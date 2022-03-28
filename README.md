@@ -19,3 +19,6 @@
 <h3 align="left">BOJ</h3>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kurooru)](https://solved.ac/kurooru)
+
+<h3 align="left">GitHub Stats</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurooru98&show_icons=true&theme=tokyonight)
