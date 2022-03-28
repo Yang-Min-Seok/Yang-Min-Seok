@@ -7,8 +7,10 @@
 - (Jul. 8th. 2019 ~ Apr. 25th. 2021) Military Service at Republic of Korea Air Force.
 - (Mar. 2nd. 2021 ~ ) Started majoring in S/W development.
 - (Dec. 3rd. 2021 ~ ) Nominated in a development contest [Hanium](https://github.com/2jaebbang/Hanium-SmartBell). (cafe vibration bell replacement project)
+- (Jan. 27th. 2022 ~ Mar. 10th. 2022) Completed a state-funded front-end development course. (Javascript & jQuery)
 - (Feb. 6th. 2022 ~ Feb. 24th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 - (Mar. 18th. 2022 ~ ) Started working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
+- (Mar. 3rd. 2022 ~ Apr. 25th. 2022) Completed a state-funded front-end development course. (Html & CSS)
 - 📫 How to reach me **kurooru98@gmail.com**
 - ⚡ Fun fact **I love to play badminton and guitar.**
 
