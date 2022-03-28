@@ -13,7 +13,10 @@
 - (Feb. 6th. 2022 ~ Feb. 24th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 - (Mar. 18th. 2022 ~ ) Started working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
 - (Mar. 3rd. 2022 ~ Apr. 25th. 2022) Completed a state-funded front-end development course. (Html & CSS)
-- 📫 How to reach me **kurooru98@gmail.com**
+
+<h3 align="left">📫 How to reach me</h3>
+
+- **kurooru98@gmail.com**
 - ⚡ Fun fact **I love to play badminton and guitar.**
 
 <h3 align="left">Connect with me</h3>
