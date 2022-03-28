@@ -5,7 +5,7 @@
 
 - (Mar. 2nd. 2018 ~ ) Entered Hankuk University of Foreign Studies and started majoring in Japanese.
 - (Jul. 8th. 2019 ~ Apr. 25th. 2021) Military Service at Republic of Korea Air Force.
-- (Mar. 2nd. 2021 ~ ) Started majoring in S/W development.
+- (Mar. 2nd. 2021 ~ ) Started majoring in S/W development as a 2nd major.
 - (Aug. 9th. 2021) Acquisition of JLPT N1.
 - (Dec. 3rd. 2021 ~ ) Nominated in a development contest [Hanium](https://github.com/2jaebbang/Hanium-SmartBell). (cafe vibration bell replacement project)
 - (Jan. 27th. 2022 ~ Mar. 10th. 2022) Completed a state-funded front-end development course. (Javascript & jQuery)
