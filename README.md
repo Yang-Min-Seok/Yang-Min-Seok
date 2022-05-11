@@ -15,6 +15,7 @@
 - (Feb. 6th. 2022 ~ Feb. 24th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 - (Mar. 18th. 2022 ~ ) Started working on [HaninBridge](https://www.haninbridge.com) as a wep developer.
 - (Mar. 3rd. 2022 ~ Apr. 25th. 2022) Completed a state-funded front-end development course. (Html & CSS)
+- (Mar. 24th. 2022 ~ Apr. 28th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 - (Apr. 1st. 2022 ~ Feb. 28th. 2023) Exchange student at Tokyo University of Foreign Studies.
 
 <h3 align="left">⚡ Fun fact </h3>
