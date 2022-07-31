@@ -17,6 +17,7 @@
 - (Mar. 3rd. 2022 ~ Apr. 25th. 2022) Completed a state-funded front-end development course. (Html & CSS)
 - (Mar. 24th. 2022 ~ Apr. 28th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 - (Apr. 1st. 2022 ~ Feb. 28th. 2023) Exchange student at [Tokyo University of Foreign Studies](http://www.tufs.ac.jp).
+- (Jul. 31st. 2022 ~ Aug. 13th. 2022) Completed a algorithm camp hosted by [CodeTree](https://www.codetree.ai/).
 
 <h3 align="left">⚡ Fun fact </h3>
 
