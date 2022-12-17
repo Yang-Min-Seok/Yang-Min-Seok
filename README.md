@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yang Min Seok</h1>
-<h3 align="left">I'm a Junior majoring in Japanese and S/W development in South Korea.</h3>
+<h3 align="left">I'm a Senior majoring in Japanese and S/W development in South Korea.</h3>
 <h3 align="left">I hope to be a frontend developer someday.</h3>
 
 <h3 align="left">Languages and Tools</h3>
