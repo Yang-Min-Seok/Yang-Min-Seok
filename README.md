@@ -20,5 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Min-Seok&layout=compact&theme=tokyonight)
 
+- 👨‍💻 All of my projects are available at [https://detailed-mulberry-8d8.notion.site/f4f20368fd4940c5aa93bb6af828442b](https://detailed-mulberry-8d8.notion.site/f4f20368fd4940c5aa93bb6af828442b)
+
 <h3 align="left">⚡ Fun fact </h3>
 - **I love to play badminton and guitar.**
