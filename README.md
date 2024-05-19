@@ -20,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Min-Seok&layout=compact&theme=tokyonight)
 
-- 👨‍💻 All of my projects are available at 
+- <h3 align="left">👨‍💻 All of my projects are available at</h3> 
 <br> - KOR [https://detailed-mulberry-8d8.notion.site/7bbf5d410e8d44acbe839100ff0135cf](https://detailed-mulberry-8d8.notion.site/7bbf5d410e8d44acbe839100ff0135cf)
 <br> - JPN [https://detailed-mulberry-8d8.notion.site/f4f20368fd4940c5aa93bb6af828442b](https://detailed-mulberry-8d8.notion.site/f4f20368fd4940c5aa93bb6af828442b)
 
